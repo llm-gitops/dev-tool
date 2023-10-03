@@ -1,1 +1,2 @@
-# dev-tool
+# Flair
+Flux AI Runtime
